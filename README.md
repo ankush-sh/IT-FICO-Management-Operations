@@ -1,4 +1,4 @@
-# IT FICO – Confluence Knowledge Space (Demo)
+# IT FICO - Management Operations & Leadership Support
 
 A complete Confluence space I designed for an **IT Finance & Controlling (FICO)** team: one place for budgets, forecasts, processes, decisions and leadership follow-ups.
 
